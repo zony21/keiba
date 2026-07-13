@@ -41,23 +41,23 @@
 
 | Evaluation Item | Range | Score | Evidence |
 |---|---:|---:|---|
-| Performance under conditions close to this race | 0 to 12 | 8 | Won a Listed race at 2000m and has recent strong results at 2400m and 2600m. Kokura course experience was not confirmed, so no maximum score was given. |
-| Opponent level, margin, and race content | 0 to 8 | 6 | Listed winner and Open-class runner-up. G3 results were 11th by 0.6 seconds and 13th by 1.6 seconds, leaving uncertainty at graded-stakes level. |
-| Maintenance, improvement, or decline in recent form | -6 to 6 | +2 | Recent two races produced a win and a second-place finish. The two preceding graded races were defeats, so the improvement score is positive but limited. |
-| Winning ability and stability | 0 to 4 | 2 | Two wins in the latest five races show winning ability, but finishes of 11th and 13th show substantial variation. |
-| Age-related ability decline | 0 to -4 | 0 | Five-year-olds have the highest historical win count in the supplied Kokura Kinen age statistics. No evidence of age-related decline was identified. |
+| Performance under conditions close to this race | 0 to 12 | 9 | Won a Listed race at 2000m, the target distance, and also won at 2400m and finished second at 2600m. These longer-distance results support a broad and proven distance range rather than replacing the direct 2000m evidence. No confirmed Kokura Turf 2000m result prevents a maximum score. |
+| Opponent level, margin, and race content | 0 to 8 | 6 | Two Listed wins and an Open-class runner-up demonstrate strong Open-level ability. G3 results of 11th by 0.6 seconds and 13th by 1.6 seconds leave uncertainty about consistent graded-stakes performance. |
+| Maintenance, improvement, or decline in recent form | -6 to 6 | +3 | The latest sequence improved from 13th and 11th to second and first. The recent win and runner-up show a clear upward trend, while the earlier G3 defeats limit the score below the maximum. |
+| Winning ability and stability | 0 to 4 | 3 | Two wins and one second-place finish in the latest five races demonstrate both winning ability and repeatable high-level performance. The two double-digit G3 finishes prevent a full score. |
+| Age and sex historical adjustment | 0 to -4 | 0 | West Now is a five-year-old male. Five-year-olds have the highest historical win count in the supplied Kokura Kinen data, and male horses account for most winners. No deduction is supported. |
 
 ## Final Stage 1 Score
 
-**18 / 30**
+**21 / 30**
 
 Calculation:
 
-`8 + 6 + 2 + 2 + 0 = 18`
+`9 + 6 + 3 + 3 + 0 = 21`
 
 ## Assessment
 
-West Now has demonstrated sufficient ability to compete at Open and Listed level, including a 2000m Listed victory. Recent results show that current form is being maintained at a high level. The main unresolved points are the lack of confirmed Kokura performance and insufficient graded-stakes results at or near 2000m.
+West Now has direct winning evidence at 2000m and has also maintained strong performance at 2400m and 2600m. The longer-distance results support a broad distance range and provide additional evidence of stamina and race ability. Recent form has clearly improved, with a second-place finish followed by a Listed victory. The main unresolved points are the lack of confirmed Kokura Turf 2000m performance and inconsistent results at G3 level.
 
 ## Missing Information
 
