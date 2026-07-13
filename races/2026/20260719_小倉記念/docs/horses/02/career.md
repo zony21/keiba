@@ -2,8 +2,8 @@
 
 | Finish | Venue / Date | Distance | Race | Grade | Running Position | Popularity | Weather / Track | Time | Final 3F | Pace | Body Weight | Jockey | Margin |
 |------:|--------------|----------|------|-------|-----------------|-----------:|----------------|-------|----------|------|-------------|--------|--------|
-| 14 | Hanshin 3R5 / 2026-06-20 | Turf 2200m | Stork Stakes | Class 3 | 12-11-4-4 | 1 | Rain / Heavy | 2:15.5 | 36.6 | Slow | 472 (0) | Mirco Demuro (55.0) | +1.3 |
-| 1 | Nakayama 2R3 / 2026-03-07 | Turf 2500m | Itako Tokubetsu | Class 2 | 8-2-1-1 | 6 | Sunny / Yielding | 2:33.9 | 37.5 | Slow | 472 (+2) | Kazuo Yokoyama (56.0) | -0.2 |
-| 4 | Kokura 1R9 / 2026-02-21 | Turf 2600m | Sarakurayama Tokubetsu | Class 2 | 10-10-11-8 | 5 | Sunny / Good | 2:39.4 | 35.4 | Slow | 470 (0) | Ryuto Yokoyama (58.0) | +0.3 |
-| 2 | Kokura 1R1 / 2026-01-24 | Turf 2600m | Uminonakamichi Tokubetsu | Class 2 | 6-6-5-4 | 2 | Sunny / Good | 2:38.1 | 34.7 | Slow | 470 (+2) | Christophe Lemaire (58.0) | +1.0 |
-| 6 | Fukushima 3R4 / 2025-11-16 | Turf 2600m | Sanriku Tokubetsu | Class 2 | 9-9-13-10 | 5 | Sunny / Good | 2:42.2 | 35.0 | Slow | 468 (-10) | Daiki Matsumoto (58.0) | +0.8 |
+| 15 | Kyoto 3R4 / 2026-05-03 | Turf 3200m | Tenno Sho (Spring) | G1 | 3-4-5-8 | 11 | Light Rain / Good | 3:16.3 | 37.4 | Medium | 466 (-4) | Yuga Kawada (58.0) | +2.6 |
+| 4 | Nakayama 3R1 / 2026-03-28 | Turf 2500m | Nikkei Sho | G2 | 8-8-12-12 | 10 | Sunny / Good | 2:31.1 | 35.6 | Fast | 470 (-6) | Yuga Kawada (57.0) | +0.4 |
+| 3 | Nakayama 1R9 / 2026-01-25 | Turf 2200m | AJCC | G2 | 2-2-2-2 | 14 | Sunny / Good | 2:11.2 | 36.6 | Fast | 476 (+12) | Akira Sugawara (57.0) | +0.4 |
+| 8 | Tokyo 2R5 / 2025-05-10 | Turf 1800m | Epsom Cup | G3 | -13-11-11 | 15 | Cloudy / Yielding | 1:45.0 | 35.1 | Medium | 464 (-2) | Yoshihiro Furukawa (57.0) | +1.1 |
+| 7 | Kyoto 1R6 / 2025-02-16 | Turf 2200m | Kyoto Kinen | G2 | 7-7-8-7 | 9 | Cloudy / Yielding | 2:16.4 | 34.6 | Slow | 466 (-4) | Yasunari Iwata (57.0) | +0.7 |
