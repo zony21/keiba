@@ -5,6 +5,7 @@
 | 01 | West Now | 18 / 30 |
 | 02 | Echt | 11 / 30 |
 | 03 | Kaerum | 12 / 30 |
+| 04 | Kanefura | 13 / 30 |
 
 ## Notes
 
