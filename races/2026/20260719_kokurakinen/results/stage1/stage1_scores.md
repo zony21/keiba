@@ -29,4 +29,5 @@
 - All nineteen entered horses have now been individually evaluated.
 - Ability ranking may be created only after confirming that every horse uses the latest Stage 1 policy and all required re-evaluations are complete.
 - Horse 06 has no supplied historical race result. Its score is a neutral, very-low-confidence placeholder under the missing-information policy.
+- Horse 09 was re-evaluated under the latest individual-evaluation policy on 2026-07-14; its score remains 22 / 30.
 - Horse 19 was re-evaluated under the latest individual-evaluation policy on 2026-07-14; its score remains 25 / 30.
