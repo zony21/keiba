@@ -17,10 +17,12 @@
 | 13 | T O Solennel | 13 / 30 |
 | 14 | Total Clarity | -1 / 30 |
 | 15 | Namura Ahab | 14 / 30 |
+| 16 | Navona | 9 / 30 |
 
 ## Notes
 
 - This table lists Stage 1 ability scores only.
 - Odds, popularity-based ranking, race-day information, and betting strategy are not included.
-- Ability ranking will be created only after all entered horses have been evaluated.
+- All 16 horses have now been individually evaluated.
+- Ability ranking may be created only after confirming that every horse uses the latest Stage 1 policy.
 - Horse 06 has no supplied historical race result. Its score is a neutral, very-low-confidence placeholder under the missing-information policy.
