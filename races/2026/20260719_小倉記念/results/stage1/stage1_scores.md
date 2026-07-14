@@ -9,6 +9,7 @@
 | 05 | Gaia Mente | 23 / 30 |
 | 06 | Keis Reve | 12 / 30 |
 | 07 | Copano Santos | 1 / 30 |
+| 08 | Safira | 11 / 30 |
 
 ## Notes
 
