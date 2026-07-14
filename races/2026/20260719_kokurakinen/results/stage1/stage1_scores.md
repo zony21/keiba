@@ -20,11 +20,12 @@
 | 16 | Navona | 9 / 30 |
 | 17 | Nolan Sunrise | 12 / 30 |
 | 18 | Meiner Memory | 11 / 30 |
+| 19 | Raze Drama | 25 / 30 |
 
 ## Notes
 
 - This table lists Stage 1 ability scores only.
 - Odds, popularity-based ranking, race-day information, and betting strategy are not included.
-- Eighteen of the nineteen entered horses have now been individually evaluated.
-- Ability ranking must not be created until horse 19 has also been evaluated under the latest Stage 1 policy.
+- All nineteen entered horses have now been individually evaluated.
+- Ability ranking may be created only after confirming that every horse uses the latest Stage 1 policy and all required re-evaluations are complete.
 - Horse 06 has no supplied historical race result. Its score is a neutral, very-low-confidence placeholder under the missing-information policy.
