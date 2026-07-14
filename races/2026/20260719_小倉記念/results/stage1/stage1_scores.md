@@ -10,6 +10,7 @@
 | 06 | Keis Reve | 12 / 30 |
 | 07 | Copano Santos | 1 / 30 |
 | 08 | Safira | 11 / 30 |
+| 09 | Giovanni | 22 / 30 |
 
 ## Notes
 
