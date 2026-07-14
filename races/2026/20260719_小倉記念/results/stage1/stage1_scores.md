@@ -8,6 +8,7 @@
 | 04 | Kanefura | 13 / 30 |
 | 05 | Gaia Mente | 23 / 30 |
 | 06 | Keis Reve | 12 / 30 |
+| 07 | Copano Santos | 1 / 30 |
 
 ## Notes
 
