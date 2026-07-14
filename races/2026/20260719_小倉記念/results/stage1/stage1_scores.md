@@ -11,6 +11,7 @@
 | 07 | Copano Santos | 1 / 30 |
 | 08 | Safira | 11 / 30 |
 | 09 | Giovanni | 22 / 30 |
+| 10 | G T Adamant | 22 / 30 |
 
 ## Notes
 
