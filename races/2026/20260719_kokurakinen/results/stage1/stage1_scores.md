@@ -18,11 +18,12 @@
 | 14 | Total Clarity | -1 / 30 |
 | 15 | Namura Ahab | 14 / 30 |
 | 16 | Navona | 9 / 30 |
+| 17 | Nolan Sunrise | 12 / 30 |
 
 ## Notes
 
 - This table lists Stage 1 ability scores only.
 - Odds, popularity-based ranking, race-day information, and betting strategy are not included.
-- All 16 horses have now been individually evaluated.
-- Ability ranking may be created only after confirming that every horse uses the latest Stage 1 policy.
+- Seventeen of the nineteen entered horses have now been individually evaluated.
+- Ability ranking must not be created until horses 18 and 19 have also been evaluated under the latest Stage 1 policy.
 - Horse 06 has no supplied historical race result. Its score is a neutral, very-low-confidence placeholder under the missing-information policy.
