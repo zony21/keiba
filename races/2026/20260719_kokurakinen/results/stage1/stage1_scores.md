@@ -14,6 +14,7 @@
 | 10 | G T Adamant | 22 / 30 |
 | 11 | Zendan Hayabusa | 10 / 30 |
 | 12 | Tagano Abby | 25 / 30 |
+| 13 | T O Solennel | 13 / 30 |
 
 ## Notes
 
