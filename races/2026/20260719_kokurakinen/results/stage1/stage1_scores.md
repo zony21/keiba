@@ -16,6 +16,7 @@
 | 12 | Tagano Abby | 25 / 30 |
 | 13 | T O Solennel | 13 / 30 |
 | 14 | Total Clarity | -1 / 30 |
+| 15 | Namura Ahab | 14 / 30 |
 
 ## Notes
 
