@@ -2,17 +2,17 @@
 
 ## Purpose
 
-Stage 2 evaluates the factors that affect how well a qualified horse may perform in today's race.
+Stage 2 evaluates the supporting factors that affect how well a qualified horse may perform in today's race.
 
-Stage 1 has already evaluated historical ability. Stage 2 must not repeat the Stage 1 ability assessment.
+Stage 1 has already evaluated historical ability and handicap suitability. Stage 2 must not repeat either assessment.
 
 Stage 1 answers:
 
-> How strong is this horse based on historical performance?
+> How strong is this horse based on historical performance and handicap conditions?
 
 Stage 2 answers:
 
-> How favorable are the current supporting factors for this horse today?
+> How favorable are the jockey, pedigree, training, career-rate, and personal-best factors for this horse today?
 
 Stage 2 produces the **Stage 2 Condition Score only**.
 
@@ -22,7 +22,7 @@ Stage 2 produces the **Stage 2 Condition Score only**.
 
 Stage 2 starts only after Stage 1 has been completed.
 
-The following files must already exist:
+Required files:
 
 - `results/stage1/stage1_scores.md`
 - `results/stage1/ability_ranking.md`
@@ -35,10 +35,11 @@ Additional reference files may include:
 - `docs/jockeys/`
 - Pedigree reference data
 - Training and workout records
-- Official handicap weights
+- Verified personal-best records
+
+Handicap information is not scored in Stage 2. It is evaluated in Stage 1 under `docs/scoring_logic_v3.md`.
 
 AI-generated analysis must be written under `results/`.
-
 Never write AI-generated evaluation results into `docs/`.
 
 ---
@@ -49,16 +50,14 @@ Do not evaluate every horse.
 
 Only horses whose Stage 1 Score is **greater than 20 points** proceed to Stage 2.
 
-- Stage 1 Score of 21 or higher: qualified for Stage 2
+- Stage 1 Score of 21 or higher: qualified
 - Stage 1 Score of 20 or lower: eliminated before Stage 2
-
-This fixed threshold replaces the previous average-score filtering method.
 
 ---
 
 ## Prohibited Information
 
-Never use the following information in Stage 2:
+Never use:
 
 - Odds
 - Betting market popularity
@@ -67,11 +66,11 @@ Never use the following information in Stage 2:
 - Final prediction
 - Race marks such as `◎`, `○`, `▲`, or `△`
 - Paddock evaluation
+- Race-day body weight
+- Handicap weight scoring
 - Unsupported speculation
 
-Training information is allowed because it is now an official Stage 2 category.
-
-Race-day body weight remains Stage 3 information unless the Stage 3 policy is changed separately.
+Training information is allowed because it is an official Stage 2 category.
 
 ---
 
@@ -85,13 +84,11 @@ For each qualified horse:
 2. Read `docs/horses/XX/data.md`.
 3. Read `docs/horses/XX/career.md`.
 4. Read `docs/race_info_en.md`.
-5. Read available jockey, pedigree, training, personal-best, and handicap information.
+5. Read available jockey, pedigree, training, career-rate, and personal-best information.
 6. Evaluate all Stage 2 categories.
 7. Create or replace `results/stage2/XX_horse_name.md`.
 8. Immediately update `results/stage2/stage2_scores.md`.
 9. Continue to the next qualified horse.
-
-Do not wait until several horses have been completed before saving results.
 
 ---
 
@@ -101,7 +98,7 @@ Maximum Stage 2 Score: **30 points**
 
 ### 1. Jockey Performance
 
-Score: **0 to 5**
+Score: **0 to 6**
 
 Evaluate:
 
@@ -113,13 +110,11 @@ Evaluate:
 - Previous results with the same horse
 - Ability to execute the horse's preferred running style
 
-Do not evaluate a jockey only by reputation or name recognition.
-
-Use factual statistics and race results.
+Use factual statistics and race results. Do not score reputation or name recognition.
 
 ### 2. Pedigree
 
-Score: **0 to 4**
+Score: **0 to 5**
 
 Evaluate:
 
@@ -129,13 +124,11 @@ Evaluate:
 - Track-condition tendencies
 - Stamina, speed, and acceleration characteristics relevant to today's race
 
-Pedigree is supplementary evidence.
-
-Do not allow pedigree assumptions to override the horse's actual race record.
+Pedigree is supplementary evidence and must not override actual race performance.
 
 ### 3. Training Condition
 
-Score: **-3 to +6**
+Score: **-3 to +7**
 
 Evaluate:
 
@@ -145,16 +138,15 @@ Evaluate:
 - Sectional splits
 - Acceleration or deceleration through the workout
 - Paired-work result when available
-- Comparison with the horse's previous-race training
-- Whether the horse appears to be improving, maintaining, or declining based on factual workout data
+- Comparison with previous-race training
+- Evidence of improvement, maintenance, or decline
 
-Do not use vague comments such as "looks good" without measurable evidence.
-
+Do not use vague comments without measurable evidence.
 Missing training information is neutral and must be recorded under Missing Information.
 
 ### 4. Overall Career Performance Rate
 
-Score: **0 to 5**
+Score: **0 to 6**
 
 Evaluate the horse's full career record using:
 
@@ -165,15 +157,13 @@ Evaluate the horse's full career record using:
 - Performance consistency
 - Performance under conditions related to today's race
 
-Always consider sample size.
-
-A high rate from very few starts must not automatically receive the maximum score.
+Always consider sample size. A high rate from very few starts must not automatically receive the maximum score.
 
 This category summarizes career performance rates only. It must not become a complete re-evaluation of Stage 1 ability.
 
 ### 5. Personal Best Performance
 
-Score: **0 to 5**
+Score: **0 to 6**
 
 Evaluate the horse's best verified performance relevant to today's race.
 
@@ -188,44 +178,12 @@ Possible evidence includes:
 - Conditions under which the personal best was recorded
 
 Do not compare raw times across different racecourses, distances, track conditions, or pace environments without adjustment.
-
 Prioritize a personal best recorded under conditions similar to today's race.
-
-Consider how recent the performance is and whether it appears reproducible.
-
-### 6. Handicap Weight
-
-Score: **-3 to +5**
-
-Evaluate:
-
-- Today's assigned weight
-- Results under the same or similar weight
-- Results under a heavier weight
-- Change from the previous race
-- Weight relative to other qualified horses
-- Historical handicap-race performance
-- Relationship between weight changes and actual race performance
-
-Scoring priorities:
-
-1. Strong performance under the same weight
-2. Strong performance under a heavier weight
-3. Verified effect of a weight increase or decrease
-4. Historical handicap-race performance
-5. Neutral treatment when evidence is unavailable
-
-Do not automatically reward a light weight.
-
-Do not automatically penalize a heavy weight.
-
-The score must reflect demonstrated weight-carrying ability and today's actual assignment.
+Consider recency and reproducibility.
 
 ---
 
 ## Final Score
-
-The Stage 2 Score is calculated as:
 
 ```text
 Jockey Performance
@@ -233,15 +191,13 @@ Jockey Performance
 + Training Condition
 + Overall Career Performance Rate
 + Personal Best Performance
-+ Handicap Weight
 = Stage 2 Condition Score
 ```
 
 Maximum: **30 points**
 
 The total may become negative.
-
-Do not artificially normalize or adjust scores to fit a preferred range.
+Do not artificially normalize scores.
 
 ---
 
@@ -256,19 +212,15 @@ Acceptable evidence includes:
 - Horse-and-jockey combination results
 - Official pedigree information
 - Training times and sectional splits
-- Career win rate, top-two rate, and top-three rate
+- Career win, top-two, and top-three rates
 - Number of career starts
 - Personal-best times, margins, ratings, or final-section records
-- Historical results under similar weights
-- Previous-race weight changes
-- Official handicap assignment
 
 Avoid unsupported statements such as:
 
 - The jockey should suit the horse
 - The pedigree looks ideal
 - The workout seems good
-- The light weight should help
 - The horse will probably improve
 
 Every conclusion must be traceable to supplied race history or official reference documents.
@@ -279,23 +231,16 @@ Every conclusion must be traceable to supplied race history or official referenc
 
 Unknown information is neutral.
 
-Never interpret missing information as poor suitability.
-
-Do not assign zero merely because evidence is unavailable.
-
-Do not invent or infer unsupported suitability.
-
-Record unavailable items under:
-
-```text
-Missing Information
-```
+- Never interpret missing information as poor suitability.
+- Do not assign zero merely because evidence is unavailable.
+- Do not invent unsupported suitability.
+- Record unavailable items under `Missing Information`.
 
 ---
 
 ## Per-Horse Output
 
-Create one file for every evaluated horse:
+Create:
 
 ```text
 results/stage2/XX_horse_name.md
@@ -312,52 +257,20 @@ Each file must contain:
 7. Missing Information
 8. Notes
 
-Example structure:
+Example scoring section:
 
 ```markdown
-# Horse Name
-
-## Evaluation Status
-
-Completed
-
-## Stage 1 Reference
-
-Stage 1 Score: 22 / 30
-
-## Today's Race Information
-
-- Racecourse: ...
-- Distance: ...
-- Surface: ...
-- Assigned Weight: ...
-- Jockey: ...
-
 ## Stage 2 Scoring
 
-- Jockey Performance: 4 / 5
-- Pedigree: 3 / 4
-- Training Condition: 4 / 6
-- Overall Career Performance Rate: 4 / 5
-- Personal Best Performance: 4 / 5
-- Handicap Weight: 3 / 5
+- Jockey Performance: 5 / 6
+- Pedigree: 4 / 5
+- Training Condition: 5 / 7
+- Overall Career Performance Rate: 5 / 6
+- Personal Best Performance: 5 / 6
 
 ## Final Stage 2 Score
 
-22 / 30
-
-## Evidence and Assessment
-
-- ...
-- ...
-
-## Missing Information
-
-- ...
-
-## Notes
-
-- ...
+24 / 30
 ```
 
 ---
@@ -379,10 +292,10 @@ Required columns:
 
 Rules:
 
-- Update the file immediately after each horse is evaluated.
+- Update immediately after each horse.
 - Keep horse-number order.
-- Do not rank horses in this file.
-- Replace old scores when a horse is re-evaluated.
+- Do not rank in this file.
+- Replace old scores when re-evaluated.
 
 ---
 
@@ -394,14 +307,9 @@ Create:
 results/stage2/stage2_ranking.md
 ```
 
-Only create or finalize this file after:
+Only after every qualified horse and every required re-evaluation has been completed.
 
-- Every qualified horse has been evaluated.
-- Every required re-evaluation has finished.
-
-Sort by Stage 2 Score.
-
-Include:
+Sort by Stage 2 Score and include:
 
 - Rank
 - Horse Number
@@ -409,8 +317,6 @@ Include:
 - Stage 1 Score
 - Stage 2 Score
 - Combined Score
-
-The Combined Score is included for reference, but Stage 2 itself must not repeat the complete Stage 1 ability assessment.
 
 ---
 
@@ -422,7 +328,7 @@ Whenever the Stage 2 policy changes:
 - Replace previous Stage 2 evaluations.
 - Do not preserve old-policy scores as active results.
 
-The previous Course, Distance, Track Condition, Expected Pace, and Running Style category model is no longer the active Stage 2 scoring policy.
+The former Handicap Weight category is no longer part of Stage 2. Handicap evaluation has moved to Stage 1.
 
 ---
 
@@ -430,7 +336,7 @@ The previous Course, Distance, Track Condition, Expected Pace, and Running Style
 
 Stage 2 is complete only after:
 
-- Every horse with a Stage 1 Score greater than 20 has been evaluated using the current six categories.
+- Every horse with a Stage 1 Score greater than 20 has been evaluated using the current five categories.
 - `results/stage2/stage2_scores.md` has been updated.
 - `results/stage2/stage2_ranking.md` has been created.
 
