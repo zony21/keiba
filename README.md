@@ -1,63 +1,83 @@
 # keiba
 
-競馬予想を特徴量ベースで全頭評価し、採点・予想・結果検証を蓄積するリポジトリ。
+競馬予想を特徴量ベースで評価し、各段階の採点、最終予想、レース後検証を蓄積するためのリポジトリです。
 
-## Official Logic
+## このリポジトリの目的
+
+競走馬の評価を一度に決めず、役割の異なる複数の段階に分けて分析します。
+
+- 第一段階：過去実績から基礎能力を評価
+- 第二段階：今回のレース条件への適性を評価
+- 第三段階：当日の状態や直前情報を評価
+- 最終段階：各段階の結果を統合し、オッズ確認後に期待値と馬券戦略を決定
+- レース後：予想と実際の結果を比較し、評価ロジックを検証
+
+## 基本方針
+
+- 評価根拠は公式資料または保存済みの競走実績に限定する
+- 不明な情報を推測で補完しない
+- 情報不足を能力不足として扱わない
+- 各段階の役割を混在させない
+- 全評価が完了する前に最終印や馬券戦略を決めない
+- AIが生成した評価結果は `results/` 配下へ保存する
+- 元資料や公式ロジックは `docs/` 配下で管理する
+
+## 評価段階
+
+### 第一段階：能力評価
+
+過去の競走実績のみを使用し、その馬が持つ基礎能力を30点満点で評価します。
+
+オッズ、人気、当日情報、最終的な馬券判断は使用しません。
+
+正式ロジック：
 
 - `docs/scoring_logic_v3.md`
-- `templates/feature_stage1.csv`
-- `templates/race_score.csv`
 
-`scoring_logic_v2.md`以前は検証履歴として残すが、新規レースでは使用しない。
+### 第二段階：今回条件への適性評価
 
-## Stage 1 Workflow
+第一段階で20点を超えた馬のみを対象とし、今回のコース、距離、馬場、想定ペース、脚質との適合性を30点満点で評価します。
 
-1. Save race materials under `races/YYYY/YYYYMMDD_RaceName/docs/`.
-2. Evaluate horses in predefined batches using feature-by-feature comparison.
-3. Complete all Stage 1 evaluations.
-4. Verify consistency only after every horse has been scored.
-5. Finalize the Stage 1 Ability Ranking.
+第二段階では基礎能力を再評価せず、オッズ、人気、期待値、当日馬体重、調教、パドック情報は使用しません。
 
-## Stage 2 Workflow
+現行ロジック：
 
-Stage 2 evaluates **today's race conditions only**. Historical ability is inherited from Stage 1 and must not be evaluated again.
+- `docs/stage2_evaluation_workflow.md`
 
-### Horse Selection
+### 第三段階：当日情報評価
 
-- Only horses with a **Stage 1 Score greater than 20** proceed to Stage 2.
-- Horses scoring **20 or below are eliminated** before Stage 2 begins.
+当日の馬体重、馬場の実状態、直前気配など、レース当日に確定する情報を評価します。
 
-### Evaluation Flow
+第一段階と第二段階が完了する前には開始しません。
 
-For each qualified horse:
+## 主なディレクトリ
 
-1. Read the Stage 1 result.
-2. Read `data.md`.
-3. Read `career.md`.
-4. Evaluate today's race conditions.
-5. Update `results/stage2/XX_horse_name.md`.
-6. Immediately update `results/stage2/stage2_scores.md`.
+```text
+docs/       元資料、公式ロジック、評価ルール
+results/    AIが生成した各段階の評価結果
+    stage1/
+    stage2/
+    stage3/
+    final/
+templates/  採点表や出力ファイルのテンプレート
+```
 
-### Evaluation Categories (30 points)
+## 全体の流れ
 
-- Course Suitability (0–8)
-- Distance Suitability (0–6)
-- Track Condition Suitability (-2–4)
-- Expected Pace Suitability (-4–6)
-- Running Style Suitability (-2–6)
+```text
+第一段階：過去実績による能力評価
+↓
+第二段階：今回条件への適性評価
+↓
+第三段階：当日情報の評価
+↓
+各段階のスコアを統合
+↓
+オッズ確認後に期待値と馬券戦略を決定
+↓
+予想結果を保存
+↓
+レース後に結果検証
+```
 
-Do not use odds, popularity, betting strategy, race-day body weight, workouts, or paddock information.
-
-Missing information must be recorded as "Missing Information" and must never be treated as zero.
-
-After every qualified horse has been evaluated, create `results/stage2/stage2_ranking.md` and proceed to Stage 3.
-
-## Overall Workflow
-
-1. Stage 1: Historical Ability (30)
-2. Stage 2: Today's Conditions (30)
-3. Stage 3: Race-day Information (10)
-4. Combine scores
-5. Determine expected value and betting strategy
-6. Save prediction results
-7. Perform post-race review
+過去のロジックは検証履歴として残しますが、新しいレースでは最新版の公式ロジックを使用します。
