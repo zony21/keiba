@@ -2,7 +2,7 @@
 
 競馬予想を特徴量ベースで全頭評価し、採点・予想・結果検証を蓄積するリポジトリ。
 
-## 正式ロジック
+## Official Logic
 
 - `docs/scoring_logic_v3.md`
 - `templates/feature_stage1.csv`
@@ -10,26 +10,54 @@
 
 `scoring_logic_v2.md`以前は検証履歴として残すが、新規レースでは使用しない。
 
-## 第一段階の実行手順
+## Stage 1 Workflow
 
-1. レース資料を`races/YYYY/YYYYMMDD_レース名/docs/`へ保存する
-2. 馬番1〜4を評価軸単位で横比較して完了する
-3. 馬番5〜8を同じ基準で完了する
-4. 馬番9〜12を同じ基準で完了する
-5. 馬番13〜16を同じ基準で完了する
-6. 4回終了後に全16頭の基準矛盾だけを検査する
-7. 第一段階順位を確定する
+1. Save race materials under `races/YYYY/YYYYMMDD_RaceName/docs/`.
+2. Evaluate horses in predefined batches using feature-by-feature comparison.
+3. Complete all Stage 1 evaluations.
+4. Verify consistency only after every horse has been scored.
+5. Finalize the Stage 1 Ability Ranking.
 
-各回は「生データ確認 → 特徴量抽出 → 横比較 → 点数変換 → 保存」の順で実施する。馬単位で全項目を先に採点しない。
+## Stage 2 Workflow
 
-## 予想全体の実行手順
+Stage 2 evaluates **today's race conditions only**. Historical ability is inherited from Stage 1 and must not be evaluated again.
 
-1. 第一段階：過去実績30点
-2. 第二段階：今回条件30点
-3. 第三段階：当日状態10点
-4. 合計順位を確定する
-5. オッズから期待値と買い方を決める
-6. 採点表と予想を保存する
-7. 結果後に検証を追記する
+### Horse Selection
 
-全頭採点が終わるまで印を付けない。未取得情報は推測しない。情報不足と能力不足を区別する。不的中は0点として記録する。
+- Only horses with a **Stage 1 Score greater than 20** proceed to Stage 2.
+- Horses scoring **20 or below are eliminated** before Stage 2 begins.
+
+### Evaluation Flow
+
+For each qualified horse:
+
+1. Read the Stage 1 result.
+2. Read `data.md`.
+3. Read `career.md`.
+4. Evaluate today's race conditions.
+5. Update `results/stage2/XX_horse_name.md`.
+6. Immediately update `results/stage2/stage2_scores.md`.
+
+### Evaluation Categories (30 points)
+
+- Course Suitability (0–8)
+- Distance Suitability (0–6)
+- Track Condition Suitability (-2–4)
+- Expected Pace Suitability (-4–6)
+- Running Style Suitability (-2–6)
+
+Do not use odds, popularity, betting strategy, race-day body weight, workouts, or paddock information.
+
+Missing information must be recorded as "Missing Information" and must never be treated as zero.
+
+After every qualified horse has been evaluated, create `results/stage2/stage2_ranking.md` and proceed to Stage 3.
+
+## Overall Workflow
+
+1. Stage 1: Historical Ability (30)
+2. Stage 2: Today's Conditions (30)
+3. Stage 3: Race-day Information (10)
+4. Combine scores
+5. Determine expected value and betting strategy
+6. Save prediction results
+7. Perform post-race review
