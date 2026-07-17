@@ -39,16 +39,19 @@ Because Stage 1 must use historical performance only, no factual evidence is ava
 | Recent Trend | -6 to 6 | 0 | No recent races exist, so improvement, stability, or decline cannot be established. Neutral adjustment. |
 | Winning Ability & Consistency | 0 to 4 | 2 | No starts, wins, placings, or repeatability evidence is available. A neutral midpoint is used rather than interpreting the missing record as failure. |
 | Age and Sex Historical Adjustment | 0 to -4 | 0 | Four-year-old male. The supplied historical guideline supports no deduction. |
+| Handicap weight adjustment | -2 to +2 | -1 | Assigned weight is 56.0 kg, which is 1.2 kg above the race average of 54.8 kg. This represents a moderate above-average burden. |
 
 ## 6. Final Stage 1 Score
 
-**12 / 30**
+**11 / 32**
 
-Calculation: `6 + 4 + 0 + 2 + 0 = 12`
+Calculation: `6 + 4 + 0 + 2 + 0 - 1 = 11`
+
+Original ability score before handicap adjustment: `12 / 30`
 
 ## 7. Assessment
 
-Keis Reve cannot be evaluated from historical race performance because no previous race result is supplied. The score is therefore a neutral placeholder under the missing-information policy, not evidence that the horse has demonstrated an average level of ability.
+Keis Reve cannot be evaluated from historical race performance because no previous race result is supplied. The score is therefore a neutral placeholder under the missing-information policy, not evidence that the horse has demonstrated an average level of ability. The 56.0 kg assignment is 1.2 kg above the race average and reduces the adjusted total by one point.
 
 This evaluation has substantially lower confidence than evaluations based on actual race records. It must be replaced if verified historical results become available.
 
@@ -69,6 +72,8 @@ This evaluation has substantially lower confidence than evaluations based on act
 
 ## 9. Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Odds, popularity, expected value, race-day information, betting strategy, race marks, and final prediction were not used.
 - The neutral midpoint scores reflect unavailable evidence and must not be interpreted as confirmed ability.
 - Horse-number order is preserved in `stage1_scores.md`.
