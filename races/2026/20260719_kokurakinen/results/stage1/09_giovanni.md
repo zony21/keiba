@@ -85,6 +85,11 @@
 - Four-year-olds have a strong historical Kokura Kinen winner record.
 - The supplied results show no evidence of age-related decline.
 
+### Handicap Weight Adjustment: -2 / 2
+
+- Assigned weight is 57.5 kg, which is 2.7 kg above the race average of 54.8 kg.
+- This reaches the maximum deduction range used for a substantially above-average burden.
+
 ## 6. Final Stage 1 Score
 
 | Category | Score |
@@ -94,11 +99,14 @@
 | Recent Trend | +3 |
 | Winning Ability & Consistency | 2 / 4 |
 | Age and Sex Historical Adjustment | 0 |
-| **Total** | **22 / 30** |
+| Handicap Weight Adjustment | -2 / 2 |
+| **Total** | **20 / 32** |
+
+Original ability score before handicap adjustment: `22 / 30`
 
 ## 7. Assessment
 
-Giovanni has strong direct evidence at the target distance. His G2 second at 2000m and international G1 fifth at 2000m demonstrate competitive ability against high-quality opposition. His G2 third over 2400m further supports his middle-distance range. The latest two starts confirm recovery from the preceding defeats, but the absence of a recent victory and the lack of supplied Kokura-course evidence prevent a higher score.
+Giovanni has strong direct evidence at the target distance. His G2 second at 2000m and international G1 fifth at 2000m demonstrate competitive ability against high-quality opposition. His G2 third over 2400m further supports his middle-distance range. The latest two starts confirm recovery from the preceding defeats, but the absence of a recent victory and the lack of supplied Kokura-course evidence prevent a higher ability score. The 57.5 kg assignment is 2.7 kg above the race average and reduces the adjusted total by two points.
 
 ## 8. Missing Information
 
@@ -109,7 +117,8 @@ Giovanni has strong direct evidence at the target distance. His G2 second at 200
 
 ## 9. Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Missing information was treated as neutral and was not converted to zero points.
 - Odds and popularity were not used for scoring.
-- Assigned weight and jockey information were not used to determine Stage 1 ability.
 - No expected-value judgment, race marks, betting strategy or final prediction is included.
