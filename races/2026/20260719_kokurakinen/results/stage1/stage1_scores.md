@@ -17,9 +17,9 @@
 | 13 | T O Solennel | 13 / 30 | 0 | 13 / 32 |
 | 14 | Total Clarity | -1 / 30 | +1 | 0 / 32 |
 | 15 | Namura Ahab | 14 / 30 | -1 | 13 / 32 |
-| 16 | Navona | 9 / 30 | Pending | Pending |
-| 17 | Nolan Sunrise | 12 / 30 | Pending | Pending |
-| 18 | Meiner Memory | 11 / 30 | Pending | Pending |
+| 16 | Navona | 9 / 30 | +2 | 11 / 32 |
+| 17 | Nolan Sunrise | 12 / 30 | +2 | 14 / 32 |
+| 18 | Meiner Memory | 11 / 30 | +1 | 12 / 32 |
 | 19 | Raze Drama | 25 / 30 | Pending | Pending |
 
 ## Handicap Adjustment Baseline
@@ -27,8 +27,8 @@
 - Average assigned weight: 54.8 kg
 - Adjustment range: -2 to +2
 - Existing five-category ability scores are preserved without re-evaluation.
-- Horses 01 to 15 have completed handicap adjustment.
-- Horses 16 to 19 remain pending.
+- Horses 01 to 18 have completed handicap adjustment.
+- Horse 19 remains pending.
 
 ## Notes
 
