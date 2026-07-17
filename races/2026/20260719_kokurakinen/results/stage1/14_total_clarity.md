@@ -85,20 +85,26 @@ Evidence:
 - Gelding status alone must not cause an automatic deduction.
 - The supplied history does not independently establish age-related decline.
 
+### Handicap Weight Adjustment: +1
+
+Evidence:
+
+- Assigned weight is 53.0 kg, which is 1.8 kg below the race average of 54.8 kg.
+- This is a moderate weight advantage and receives a +1 adjustment.
+
 ## 6. Final Stage 1 Score
 
-| Category | Score |
-|---|---:|
-| Similar Condition Performance | 3 / 12 |
-| Race Ability | 2 / 8 |
-| Recent Trend | -6 |
-| Winning Ability & Consistency | 0 / 4 |
-| Age and Sex Historical Adjustment | 0 |
-| **Total** | **-1 / 30** |
+Original ability score: **-1 / 30**
+
+Adjusted score: **0 / 32**
+
+Calculation: `-1 + 1 = 0`
 
 ## 7. Assessment
 
 Total Clarity has experience in high-level races and one supplied start at 2600m, but the available evidence does not establish suitability for turf 2000m or a small right-handed course. More importantly, every supplied recent result was 12th or worse, with substantial losing margins in four of the five starts. The negative score is driven primarily by confirmed recent performance rather than by missing distance information.
+
+The 53.0 kg assignment is moderately below the 54.8 kg average and adds one point to the adjusted score.
 
 ## 8. Missing Information
 
@@ -111,5 +117,6 @@ Total Clarity has experience in high-level races and one supplied start at 2600m
 ## 9. Notes
 
 - Odds and popularity were not used in scoring.
-- Assigned weight and jockey were recorded as basic information but were not used as race-day evaluation factors.
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - No ability ranking, betting strategy, expected-value judgment or race mark was created.
