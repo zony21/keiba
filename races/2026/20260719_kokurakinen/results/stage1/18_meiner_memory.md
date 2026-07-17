@@ -70,6 +70,11 @@
 - The recent record contains no top-three finish and provides limited evidence that age-related performance concerns should be fully ignored.
 - No sex-based deduction is applied.
 
+### Handicap Weight Adjustment: +1
+
+- Assigned weight is 54.0 kg, which is 0.8 kg below the race average of 54.8 kg.
+- This is a moderate below-average burden and receives a one-point positive adjustment.
+
 ## 6. Final Stage 1 Score
 
 | Category | Score |
@@ -79,11 +84,16 @@
 | Recent Trend | 0 |
 | Winning Ability & Consistency | 1 / 4 |
 | Age and Sex Historical Adjustment | -1 |
-| **Total** | **11 / 30** |
+| Handicap Weight Adjustment | +1 |
+| **Adjusted Total** | **12 / 32** |
+
+Calculation: `7 + 4 + 0 + 1 - 1 + 1 = 12`
+
+Original ability score before handicap adjustment: `11 / 30`
 
 ## 7. Assessment
 
-Meiner Memory has useful direct evidence from a sixth-place finish in an Open race over Kokura turf 2000m. His 2400m and 2600m experience also confirms stamina and a broad middle-to-long-distance range. However, the supplied five-race record contains no win or placing, and he has repeatedly finished outside the leading group. His Stage 1 score therefore reflects confirmed course-and-distance experience but limited recent winning ability and consistency.
+Meiner Memory has useful direct evidence from a sixth-place finish in an Open race over Kokura turf 2000m. His 2400m and 2600m experience also confirms stamina and a broad middle-to-long-distance range. However, the supplied five-race record contains no win or placing, and he has repeatedly finished outside the leading group. His Stage 1 score therefore reflects confirmed course-and-distance experience but limited recent winning ability and consistency. The 54.0 kg assignment is 0.8 kg below the 54.8 kg average and adds one point to the adjusted total.
 
 ## 8. Missing Information
 
@@ -94,6 +104,7 @@ Meiner Memory has useful direct evidence from a sixth-place finish in an Open ra
 
 ## 9. Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Odds and popularity were not used for scoring.
-- Assigned weight and jockey information were not used to determine Stage 1 ability.
 - No race-day information, expected-value judgment, betting strategy, race mark or final prediction was produced.
