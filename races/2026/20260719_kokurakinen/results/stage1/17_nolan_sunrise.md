@@ -110,6 +110,13 @@ Evidence:
 - No factual evidence of age-related decline is present.
 - No deduction is applied solely because the horse is female.
 
+### Handicap Weight Adjustment: +2
+
+Evidence:
+
+- Assigned weight is 50.0 kg, which is 4.8 kg below the race average of 54.8 kg.
+- This is a very large weight advantage and receives the maximum positive handicap adjustment.
+
 ## 6. Final Stage 1 Score
 
 | Category | Score |
@@ -119,11 +126,16 @@ Evidence:
 | Recent Trend | -2 |
 | Winning Ability & Consistency | 2 / 4 |
 | Age and Sex Historical Adjustment | 0 |
-| **Total** | **12 / 30** |
+| Handicap Weight Adjustment | +2 |
+| **Adjusted Total** | **14 / 32** |
+
+Calculation: `8 + 4 - 2 + 2 + 0 + 2 = 14`
+
+Original ability score before handicap adjustment: `12 / 30`
 
 ## 7. Assessment
 
-Nolan Sunrise has relevant distance evidence through three recent 2000m starts and a recent 1800m victory at Fukushima. The Fukushima win also supports small-course and right-handed suitability. However, she has not finished in the top three in four starts after promotion to Class 3, and the latest direct 2000m result was an eighth-place finish by 1.8 seconds. Her Stage 1 score therefore reflects credible condition suitability but only moderate demonstrated ability and reduced recent consistency.
+Nolan Sunrise has relevant distance evidence through three recent 2000m starts and a recent 1800m victory at Fukushima. The Fukushima win also supports small-course and right-handed suitability. However, she has not finished in the top three in four starts after promotion to Class 3, and the latest direct 2000m result was an eighth-place finish by 1.8 seconds. Her Stage 1 score therefore reflects credible condition suitability but only moderate demonstrated ability and reduced recent consistency. The 50.0 kg assignment is far below the 54.8 kg average and adds two points to the adjusted total.
 
 ## 8. Missing Information
 
@@ -135,6 +147,7 @@ Nolan Sunrise has relevant distance evidence through three recent 2000m starts a
 
 ## 9. Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Odds and popularity were not used for ranking or scoring.
-- Assigned weight was recorded as basic information but was not used as race-day condition analysis.
 - No betting strategy, expected-value assessment, race mark or final prediction was produced.
