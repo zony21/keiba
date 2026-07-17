@@ -6,6 +6,7 @@
 - Stage: Stage 1 Ability Evaluation
 - Policy: Latest individual-evaluation policy
 - Re-evaluated: 2026-07-14
+- Handicap adjustment added: 2026-07-18
 
 ## 2. Source Files
 
@@ -94,19 +95,41 @@
 | Age and Sex Historical Adjustment | 0 |
 | **Total** | **25 / 30** |
 
-## 7. Assessment
+## 7. Handicap Weight Adjustment
 
-Raze Drama has the strongest possible direct condition evidence in the supplied history: an Open-class victory over the exact Kokura turf 2000m course. Her ability is further supported by two consecutive close sixth-place finishes in G3 races over 1800m. The sequence confirms recovery from two poor 2025 results and a stable competitive level after the Kokura victory. The supplied evidence supports retaining the Stage 1 score of 25 rather than increasing it, because no graded-race win, placing or repeated top-two sequence is present.
+| Item | Value |
+|---|---:|
+| Assigned Weight | 55.5 kg |
+| Field Average | 54.8 kg |
+| Difference from Average | +0.7 kg |
+| Handicap Adjustment | -1 |
+| Original Stage 1 Score | 25 / 30 |
+| **Adjusted Stage 1 Score** | **24 / 32** |
 
-## 8. Missing Information
+Evidence:
+
+- The assigned weight is 0.7 kg above the field average.
+- The weight is high enough to create a moderate disadvantage relative to the field, but it is not at the maximum disadvantage tier.
+- A handicap adjustment of -1 is therefore applied.
+- The original five-category ability score is preserved without re-evaluation.
+
+Calculation:
+
+`25 + (-1) = 24`
+
+## 8. Assessment
+
+Raze Drama has the strongest possible direct condition evidence in the supplied history: an Open-class victory over the exact Kokura turf 2000m course. Her ability is further supported by two consecutive close sixth-place finishes in G3 races over 1800m. The sequence confirms recovery from two poor 2025 results and a stable competitive level after the Kokura victory. The supplied evidence supports retaining the original Stage 1 score of 25 because no graded-race win, placing or repeated top-two sequence is present. Her assigned weight of 55.5 kg is 0.7 kg above the field average, resulting in a -1 handicap adjustment and an adjusted score of 24 / 32.
+
+## 9. Missing Information
 
 - No race history earlier than the supplied latest five starts is available.
 - Detailed sectional splits beyond final 3F are not supplied.
 - No additional Kokura starts are supplied beyond the Kokura Nikkei Open.
 - Detailed opponent strength and race-by-race field composition are not supplied.
 
-## 9. Notes
+## 10. Notes
 
 - Odds and popularity were not used for scoring.
-- Assigned weight and jockey information were not used to determine Stage 1 ability.
+- Assigned weight was used only for the separate handicap adjustment and did not alter the original five-category ability score.
 - No race-day information, race marks, expected-value judgment, betting strategy or final prediction is included.
