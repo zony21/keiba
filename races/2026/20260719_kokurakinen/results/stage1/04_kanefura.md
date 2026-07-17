@@ -26,12 +26,15 @@
 | Recent maintenance / rise / decline | -6 to 6 | +1 | Improved from 17th in the Chunichi Shimbun Hai to fifth at Kokura, then finished seventh in an Open race. This supports limited recovery, but not a clear sustained rise. |
 | Winning power / stability | 0 to 4 | 1 | The latest five races contain no win, second, or third-place finish. Four of the five margins were between 0.8 and 1.0 seconds, showing some repeatability without evidence of strong winning ability. |
 | Age-related decline | 0 to -4 | -1 | Six-year-olds have won five of the 40 supplied historical Kokura Kinen editions, fewer than four- and five-year-olds. Recent results show retained Open-level competitiveness, so the deduction is limited to one point. |
+| Handicap weight adjustment | -2 to +2 | +1 | Assigned weight is 53.0 kg, which is 1.8 kg below the race average of 54.8 kg. This is a meaningful but not maximum weight advantage. |
 
 ## Total
 
-**13 / 30**
+**14 / 32**
 
-Calculation: `8 + 4 + 1 + 1 - 1 = 13`
+Calculation: `8 + 4 + 1 + 1 - 1 + 1 = 14`
+
+Original ability score before handicap adjustment: `13 / 30`
 
 ## Missing Information
 
@@ -43,4 +46,9 @@ Calculation: `8 + 4 + 1 + 1 - 1 = 13`
 
 ## Stage 1 Summary
 
-Kanefura has direct evidence under the target course and distance, having finished fifth in the Kokura Nikkei Open over Kokura Turf 2000m. That result supports course suitability, but his recent record does not show strong winning power: all five supplied races were outside the top four, and his graded-stakes results were uncompetitive. The recovery from 17th to fifth and seventh supports a small positive trend, while the age deduction remains limited because he still showed Open-level competitiveness as a six-year-old.
+Kanefura has direct evidence under the target course and distance, having finished fifth in the Kokura Nikkei Open over Kokura Turf 2000m. That result supports course suitability, but his recent record does not show strong winning power: all five supplied races were outside the top four, and his graded-stakes results were uncompetitive. The recovery from 17th to fifth and seventh supports a small positive trend, while the age deduction remains limited because he still showed Open-level competitiveness as a six-year-old. The 53.0 kg assignment is below the 54.8 kg average and adds one point to the adjusted total.
+
+## Notes
+
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
