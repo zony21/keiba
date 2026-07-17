@@ -23,7 +23,7 @@
 - Sire: Smart Odin
 - Dam: August Way
 
-The assigned weight is recorded as basic information only and is not used as race-day or betting evidence in this Stage 1 score.
+The assigned weight is recorded as basic information only and is not used as race-day or betting evidence in the original Stage 1 ability score.
 
 ## 4. Recent Race Review
 
@@ -128,22 +128,28 @@ Evidence:
 - Male horses produced 30 of the 40 winners.
 - There is no supplied factual evidence of age-related decline.
 
+### Handicap Weight Adjustment: +2
+
+Evidence:
+
+- Assigned weight is 52.0 kg, which is 2.8 kg below the race average of 54.8 kg.
+- This is a substantial weight advantage and receives the maximum positive handicap adjustment.
+
 ## 6. Final Stage 1 Score
 
-| Category | Score |
-|---|---:|
-| Similar Condition Performance | 2 / 12 |
-| Race Ability | 5 / 8 |
-| Recent Trend | +1 |
-| Winning Ability & Consistency | 2 / 4 |
-| Age and Sex Historical Adjustment | 0 |
-| **Total** | **10 / 30** |
+Original ability score: **10 / 30**
+
+Adjusted score: **12 / 32**
+
+Calculation: `10 + 2 = 12`
 
 ## 7. Assessment
 
 Zendan Hayabusa has demonstrated practical ability at 1600m through a recent Class 2 victory and three consecutive close fifth-place finishes at Class 3 level. His recent results are stable, and his recorded closing sectionals confirm finishing speed under slow-pace mile conditions.
 
 The supplied history does not establish suitability for Kokura turf 2000m. His only supplied Kokura and 1800m performance was a 12th-place finish on yielding ground, while no 2000m or longer middle-distance race is included. The score therefore recognizes his confirmed mile ability without inventing middle-distance suitability.
+
+The 52.0 kg assignment is materially below the 54.8 kg average and adds two points to the adjusted score.
 
 ## 8. Missing Information
 
@@ -157,5 +163,7 @@ The supplied history does not establish suitability for Kokura turf 2000m. His o
 ## 9. Notes
 
 - Odds and supplied popularity fields were not used.
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - No ability ranking, race mark, expected-value judgment, betting strategy, or final prediction was created.
 - Unknown distance suitability was recorded as missing information and was not treated as proof of poor ability.
