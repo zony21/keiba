@@ -12,11 +12,11 @@
 | 08 | Safira | 11 / 30 | 0 | 11 / 32 |
 | 09 | Giovanni | 22 / 30 | -2 | 20 / 32 |
 | 10 | G T Adamant | 22 / 30 | -1 | 21 / 32 |
-| 11 | Zendan Hayabusa | 10 / 30 | Pending | Pending |
-| 12 | Tagano Abby | 25 / 30 | Pending | Pending |
-| 13 | T O Solennel | 13 / 30 | Pending | Pending |
-| 14 | Total Clarity | -1 / 30 | Pending | Pending |
-| 15 | Namura Ahab | 14 / 30 | Pending | Pending |
+| 11 | Zendan Hayabusa | 10 / 30 | +2 | 12 / 32 |
+| 12 | Tagano Abby | 25 / 30 | +1 | 26 / 32 |
+| 13 | T O Solennel | 13 / 30 | 0 | 13 / 32 |
+| 14 | Total Clarity | -1 / 30 | +1 | 0 / 32 |
+| 15 | Namura Ahab | 14 / 30 | -1 | 13 / 32 |
 | 16 | Navona | 9 / 30 | Pending | Pending |
 | 17 | Nolan Sunrise | 12 / 30 | Pending | Pending |
 | 18 | Meiner Memory | 11 / 30 | Pending | Pending |
@@ -27,8 +27,8 @@
 - Average assigned weight: 54.8 kg
 - Adjustment range: -2 to +2
 - Existing five-category ability scores are preserved without re-evaluation.
-- Horses 01 to 10 have completed handicap adjustment.
-- Horses 11 to 19 remain pending.
+- Horses 01 to 15 have completed handicap adjustment.
+- Horses 16 to 19 remain pending.
 
 ## Notes
 
