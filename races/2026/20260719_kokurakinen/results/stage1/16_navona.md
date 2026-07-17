@@ -86,6 +86,13 @@ Evidence:
 - The latest five-race record does not establish factual age-related decline strongly enough to justify a deduction.
 - No deduction is applied solely because the horse is six years old.
 
+### Handicap Weight Adjustment: +2
+
+Evidence:
+
+- Assigned weight is 52.0 kg, which is 2.8 kg below the race average of 54.8 kg.
+- This is a substantial weight advantage and receives the maximum positive handicap adjustment.
+
 ## 6. Final Stage 1 Score
 
 | Category | Score |
@@ -95,11 +102,16 @@ Evidence:
 | Recent Trend | 0 |
 | Winning Ability & Consistency | 1 / 4 |
 | Age and Sex Historical Adjustment | 0 |
-| **Total** | **9 / 30** |
+| Handicap Weight Adjustment | +2 |
+| **Adjusted Total** | **11 / 32** |
+
+Calculation: `5 + 3 + 0 + 1 + 0 + 2 = 11`
+
+Original ability score before handicap adjustment: `9 / 30`
 
 ## 7. Assessment
 
-Navona has confirmed experience at both Kokura and 2000m, but neither result was strong. The main positive evidence is a third-place finish over 1800m at Class 3 level, supported by two relatively close sixth-place finishes over 1600m. The supplied results do not show a recent victory, repeated top-two performance, or proven Open-class ability. The latest Kokura defeat reduces confidence, but a single poor run does not by itself prove sustained decline.
+Navona has confirmed experience at both Kokura and 2000m, but neither result was strong. The main positive evidence is a third-place finish over 1800m at Class 3 level, supported by two relatively close sixth-place finishes over 1600m. The supplied results do not show a recent victory, repeated top-two performance, or proven Open-class ability. The latest Kokura defeat reduces confidence, but a single poor run does not by itself prove sustained decline. The 52.0 kg assignment is materially below the 54.8 kg average and adds two points to the adjusted total.
 
 ## 8. Missing Information
 
@@ -113,6 +125,7 @@ Missing information was treated as neutral and was not scored as poor ability.
 
 ## 9. Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Odds and popularity were not used for scoring.
-- Assigned weight was recorded as basic information but was not used as race-day condition evaluation.
 - No ability ranking, race mark, expected-value judgment, betting strategy, or final prediction was used in this individual evaluation.
