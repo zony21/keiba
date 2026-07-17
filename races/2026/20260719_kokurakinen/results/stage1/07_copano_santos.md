@@ -46,18 +46,21 @@
 | Recent Trend | -6 to +6 | -4 | The latest five-start sequence is 1st, 9th, 10th, 12th, and 10th. Four consecutive defeats followed the Class 3 victory, and none of those four starts produced a top-eight finish. |
 | Winning Ability & Consistency | 0 to 4 | 1 | One victory is confirmed in the latest five starts, but the other four results were all ninth or worse. This shows some winning ability but limited recent repeatability. |
 | Age and Sex Historical Adjustment | 0 to -4 | -1 | He is a six-year-old male. Six-year-olds won five of the 40 supplied historical editions, and the general Stage 1 guideline permits a deduction of zero to one point for age six. The recent result sequence supports the one-point deduction. |
+| Handicap weight adjustment | -2 to +2 | +1 | Assigned weight is 53.0 kg, which is 1.8 kg below the race average of 54.8 kg. This is a meaningful lighter-than-average assignment and adds one point. |
 
 ## Final Stage 1 Score
 
-**1 / 30**
+**2 / 32**
 
 Calculation:
 
-`3 + 2 - 4 + 1 - 1 = 1`
+`3 + 2 - 4 + 1 - 1 + 1 = 2`
+
+Original ability score before handicap adjustment: `1 / 30`
 
 ## Assessment
 
-Copano Santos has a confirmed Class 3 victory and demonstrated stamina at 3000m. However, the supplied history contains no direct 2000m evidence, and the only nearby-distance result is a tenth-place Listed finish at 1800m. His four starts after the 3000m victory were all ninth or worse, including substantial defeats at 2400m, 3000m, and 3400m. The supplied evidence therefore supports limited similarity to the target conditions, low current race ability at open-class level, and a clear negative recent trend.
+Copano Santos has a confirmed Class 3 victory and demonstrated stamina at 3000m. However, the supplied history contains no direct 2000m evidence, and the only nearby-distance result is a tenth-place Listed finish at 1800m. His four starts after the 3000m victory were all ninth or worse, including substantial defeats at 2400m, 3000m, and 3400m. The supplied evidence therefore supports limited similarity to the target conditions, low current race ability at open-class level, and a clear negative recent trend. The 53.0 kg assignment is 1.8 kg below the race average and adds one point to the adjusted total.
 
 ## Missing Information
 
@@ -68,6 +71,8 @@ Copano Santos has a confirmed Class 3 victory and demonstrated stamina at 3000m.
 
 ## Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Missing information was treated as neutral and was not converted directly to zero points.
 - Historical body weights were used only as supplied race-history facts and did not affect the score.
 - No odds, popularity-based ranking, expected value, marks, betting strategy, race-day information, or final prediction were used.
