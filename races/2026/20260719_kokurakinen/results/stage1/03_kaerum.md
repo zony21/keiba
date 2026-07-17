@@ -77,15 +77,24 @@ Evidence:
 - A five-year-old male normally receives no deduction.
 - No factual evidence of age-related decline is present.
 
+### 6. Handicap Weight Adjustment: +2
+
+Evidence:
+
+- Assigned weight is 52.0 kg, which is 2.8 kg below the race average of 54.8 kg.
+- This is a substantial weight advantage and receives the maximum positive handicap adjustment.
+
 ## Final Stage 1 Score
 
-**15 / 30**
+**17 / 32**
 
-Calculation: `7 + 5 + 0 + 3 + 0 = 15`
+Calculation: `7 + 5 + 0 + 3 + 0 + 2 = 17`
+
+Original ability score before handicap adjustment: `15 / 30`
 
 ## Assessment
 
-Kaerum has no confirmed 2000m evidence in the supplied record, so his direct distance suitability remains incomplete. However, his recent 2500m victory and two competitive Kokura 2600m performances provide positive evidence of stamina, distance range, small-course handling, and Kokura suitability. His latest heavy-ground Class 3 defeat lowers confidence at a higher level, but one poor race is insufficient to classify his recent form as declining.
+Kaerum has no confirmed 2000m evidence in the supplied record, so his direct distance suitability remains incomplete. However, his recent 2500m victory and two competitive Kokura 2600m performances provide positive evidence of stamina, distance range, small-course handling, and Kokura suitability. His latest heavy-ground Class 3 defeat lowers confidence at a higher level, but one poor race is insufficient to classify his recent form as declining. The 52.0 kg assignment is materially below the 54.8 kg average and adds two points to the adjusted total.
 
 ## Missing Information
 
@@ -97,5 +106,7 @@ Kaerum has no confirmed 2000m evidence in the supplied record, so his direct dis
 
 ## Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Odds, popularity, expected value, betting strategy, race marks, and race-day information were not used.
 - Missing information was treated as neutral rather than as poor ability.
