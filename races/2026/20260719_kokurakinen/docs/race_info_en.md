@@ -4,6 +4,7 @@
 - **Racecourse**: Kokura Racecourse
 - **Distance**: Turf 2000m
 - **Surface**: Turf
+- **Average Handicap Weight**: 54.8 kg
 - **Characteristics**: Small turning radius course with varied layout
 
 ## Course Explanation
