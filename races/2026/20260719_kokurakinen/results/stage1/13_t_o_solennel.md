@@ -18,6 +18,7 @@
 
 - Horse Name: T O Solennel
 - Sex / Age: Male, 7 years old
+- Assigned Weight: 55.0 kg
 - Historical races supplied: 5
 - All five supplied races were turf 2000m races.
 
@@ -114,20 +115,26 @@ Evidence:
 - No repeated factual sequence sufficient to justify the maximum age deduction is supplied, so the deduction is limited to -1.
 - No sex deduction is applied to a male horse.
 
+### Handicap Weight Adjustment: 0
+
+Evidence:
+
+- Assigned weight is 55.0 kg, which is only 0.2 kg above the race average of 54.8 kg.
+- The assigned weight is effectively near average and receives no adjustment.
+
 ## 6. Final Stage 1 Score
 
-| Category | Score |
-|---|---:|
-| Similar Condition Performance | 9 / 12 |
-| Race Ability | 5 / 8 |
-| Recent Trend | -2 |
-| Winning Ability & Consistency | 2 / 4 |
-| Age and Sex Historical Adjustment | -1 |
-| **Total** | **13 / 30** |
+Original ability score: **13 / 30**
+
+Adjusted score: **13 / 32**
+
+Calculation: `13 + 0 = 13`
 
 ## 7. Assessment
 
 T O Solennel has strong direct distance evidence because every supplied race was over turf 2000m. The Class 3 victory and Listed fourth place establish practical ability at the target distance, and the Fukushima G3 start provides some experience under small-course conditions. However, the horse has not recorded a top-three finish in the supplied open-class races, and the latest result was a fifteenth-place finish by 1.9 seconds. The resulting Stage 1 score reflects clear 2000m suitability but reduced recent reliability.
+
+The 55.0 kg assignment is effectively equal to the 54.8 kg average and does not change the adjusted score.
 
 ## 8. Missing Information
 
@@ -142,5 +149,6 @@ Missing information is treated as neutral and is not scored as poor ability.
 ## 9. Notes
 
 - Odds and popularity were not used in the evaluation.
-- Assigned weight and jockey information were not used because they concern the upcoming race rather than historical ability.
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - No ability ranking, expected-value judgment, race mark, betting strategy, or final prediction was created.
