@@ -83,20 +83,26 @@ Evidence:
 - Five-year-olds have produced the largest number of Kokura Kinen winners in the historical reference.
 - A five-year-old male normally receives no deduction under the current policy.
 
+### Handicap Weight Adjustment: -1
+
+Evidence:
+
+- Assigned weight is 56.0 kg, which is 1.2 kg above the race average of 54.8 kg.
+- This is a moderate weight burden and receives a -1 adjustment.
+
 ## 6. Final Stage 1 Score
 
-| Category | Score |
-|---|---:|
-| Similar Condition Performance | 9 / 12 |
-| Race Ability | 6 / 8 |
-| Recent Trend | -2 |
-| Winning Ability & Consistency | 1 / 4 |
-| Age and Sex Historical Adjustment | 0 |
-| **Total** | **14 / 30** |
+Original ability score: **14 / 30**
+
+Adjusted score: **13 / 32**
+
+Calculation: `14 - 1 = 13`
 
 ## 7. Assessment
 
 Namura Ahab has clear factual evidence for Kokura and nearby-distance suitability through a close fourth-place finish in the G3 Kokura Daishoten over 1800m. His forward running position also matches the positional demands of a short-straight, small-turning course. However, direct 2000m evidence is unavailable in the supplied history, and the three subsequent races did not reproduce the Kokura performance. The resulting Stage 1 score recognizes the strong course-specific graded-race evidence while reducing credit for recent consistency and trend.
+
+The 56.0 kg assignment is moderately above the 54.8 kg average and reduces the adjusted score by one point.
 
 ## 8. Missing Information
 
@@ -110,6 +116,7 @@ Missing information is treated as neutral and is not scored as poor ability.
 ## 9. Notes
 
 - Odds and popularity were not used.
-- Assigned weight and jockey were recorded as basic information but were not used for Stage 1 scoring.
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - No race-day information, betting strategy, expected-value judgment, race marks or final prediction was produced.
 - This horse was evaluated independently without cross-horse score comparison.
