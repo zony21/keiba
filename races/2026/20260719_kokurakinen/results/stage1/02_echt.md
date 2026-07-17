@@ -70,6 +70,11 @@ Note: The horse profile uses the spelling `Ehito`, while the historical Kokura K
 - No additional sex deduction is applied because the horse is male.
 - The combined deduction remains within the -4 maximum.
 
+### Handicap Weight Adjustment: -2
+
+- Assigned weight is 58.0 kg, which is 3.2 kg above the race average of 54.8 kg.
+- This is the largest weight burden among horses 01 to 05 and receives the maximum handicap deduction.
+
 ## 6. Final Stage 1 Score
 
 | Category | Score |
@@ -79,13 +84,16 @@ Note: The horse profile uses the spelling `Ehito`, while the historical Kokura K
 | Recent Trend | +1 |
 | Winning Ability & Consistency | 2 / 4 |
 | Age and Sex Historical Adjustment | -4 |
-| **Total** | **15 / 30** |
+| Handicap Weight Adjustment | -2 |
+| **Total** | **13 / 32** |
 
-Calculation: `10 + 6 + 1 + 2 - 4 = 15`
+Calculation: `10 + 6 + 1 + 2 - 4 - 2 = 13`
+
+Original ability score before handicap adjustment: `15 / 30`
 
 ## 7. Assessment
 
-Echt has the strongest possible type of direct condition evidence: a confirmed victory in the Kokura Kinen itself. His 2026 third in the AJCC and fourth in the Nikkei Sho, both 0.4 seconds behind at G2 level, show that meaningful race ability remained present immediately before the latest start. The 3200m G1 defeat is a negative result, but it does not by itself establish a sustained decline. The major score reduction comes from the mandatory historical adjustment for a nine-year-old.
+Echt has the strongest possible type of direct condition evidence: a confirmed victory in the Kokura Kinen itself. His 2026 third in the AJCC and fourth in the Nikkei Sho, both 0.4 seconds behind at G2 level, show that meaningful race ability remained present immediately before the latest start. The 3200m G1 defeat is a negative result, but it does not by itself establish a sustained decline. The major original score reduction comes from the mandatory historical adjustment for a nine-year-old. The 58.0 kg assignment is also substantially above the 54.8 kg average and reduces the adjusted total by two points.
 
 ## 8. Missing Information
 
@@ -97,6 +105,8 @@ Unknown information was treated as neutral and was not scored as poor ability.
 
 ## 9. Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Odds and popularity were not used.
 - Race-day information was not used.
 - No ability ranking, expected-value judgment, race mark, betting strategy, or final prediction was produced.
