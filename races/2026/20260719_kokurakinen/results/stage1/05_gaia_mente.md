@@ -46,18 +46,21 @@
 | Maintenance, improvement, or decline in recent form | -6 to 6 | +4 | Results improved from seventeenth to seventh, second, and first across the latest four races. This is a fact-based improving trend. |
 | Winning ability and stability | 0 to 4 | 3 | Two wins and one second-place finish in the latest five races show current winning ability. Variation remains because the same sequence also includes two graded-race defeats. |
 | Age and sex historical adjustment | 0 to -4 | 0 | Five-year-old males are within the strongest historical winner profile in the supplied Kokura Kinen data. No deduction is supported. |
+| Handicap weight adjustment | -2 to +2 | -1 | Assigned weight is 57.0 kg, which is 2.2 kg above the race average of 54.8 kg. This is a meaningful above-average burden, but below the maximum deduction threshold used for 57.5 kg or more. |
 
 ## Final Stage 1 Score
 
-**23 / 30**
+**22 / 32**
 
 Calculation:
 
-`10 + 6 + 4 + 3 + 0 = 23`
+`10 + 6 + 4 + 3 + 0 - 1 = 22`
+
+Original ability score before handicap adjustment: `23 / 30`
 
 ## Assessment
 
-Gaia Mente has strong recent evidence near the target distance, including a Listed second at 2000m and a subsequent Listed win at 1800m. His recent sequence shows clear improvement and practical winning ability. The main unresolved point is whether this form can be reproduced at G3 level over Kokura Turf 2000m.
+Gaia Mente has strong recent evidence near the target distance, including a Listed second at 2000m and a subsequent Listed win at 1800m. His recent sequence shows clear improvement and practical winning ability. The main unresolved point is whether this form can be reproduced at G3 level over Kokura Turf 2000m. The 57.0 kg assignment is above the 54.8 kg race average and reduces the adjusted total by one point.
 
 ## Missing Information
 
@@ -68,6 +71,8 @@ Gaia Mente has strong recent evidence near the target distance, including a List
 
 ## Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Missing information was not converted to zero points.
 - No odds, value ranking, marks, or betting strategy were used.
 - Ability ranking will be finalized only after all entered horses have been evaluated.
