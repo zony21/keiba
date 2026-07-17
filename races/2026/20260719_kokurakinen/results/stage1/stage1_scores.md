@@ -7,11 +7,11 @@
 | 03 | Kaerum | 15 / 30 | +2 | 17 / 32 |
 | 04 | Kanefura | 13 / 30 | +1 | 14 / 32 |
 | 05 | Gaia Mente | 23 / 30 | -1 | 22 / 32 |
-| 06 | Keis Reve | 12 / 30 | Pending | Pending |
-| 07 | Copano Santos | 1 / 30 | Pending | Pending |
-| 08 | Safira | 11 / 30 | Pending | Pending |
-| 09 | Giovanni | 22 / 30 | Pending | Pending |
-| 10 | G T Adamant | 22 / 30 | Pending | Pending |
+| 06 | Keis Reve | 12 / 30 | -1 | 11 / 32 |
+| 07 | Copano Santos | 1 / 30 | +1 | 2 / 32 |
+| 08 | Safira | 11 / 30 | 0 | 11 / 32 |
+| 09 | Giovanni | 22 / 30 | -2 | 20 / 32 |
+| 10 | G T Adamant | 22 / 30 | -1 | 21 / 32 |
 | 11 | Zendan Hayabusa | 10 / 30 | Pending | Pending |
 | 12 | Tagano Abby | 25 / 30 | Pending | Pending |
 | 13 | T O Solennel | 13 / 30 | Pending | Pending |
@@ -27,8 +27,8 @@
 - Average assigned weight: 54.8 kg
 - Adjustment range: -2 to +2
 - Existing five-category ability scores are preserved without re-evaluation.
-- Horses 01 to 05 have completed handicap adjustment.
-- Horses 06 to 19 remain pending.
+- Horses 01 to 10 have completed handicap adjustment.
+- Horses 11 to 19 remain pending.
 
 ## Notes
 
