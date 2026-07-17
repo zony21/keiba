@@ -46,18 +46,21 @@
 | Maintenance, improvement, or decline in recent form | -6 to 6 | +3 | The latest sequence improved from 13th and 11th to second and first. The recent win and runner-up show a clear upward trend, while the earlier G3 defeats limit the score below the maximum. |
 | Winning ability and stability | 0 to 4 | 3 | Two wins and one second-place finish in the latest five races demonstrate both winning ability and repeatable high-level performance. The two double-digit G3 finishes prevent a full score. |
 | Age and sex historical adjustment | 0 to -4 | 0 | West Now is a five-year-old male. Five-year-olds have the highest historical win count in the supplied Kokura Kinen data, and male horses account for most winners. No deduction is supported. |
+| Handicap weight adjustment | -2 to +2 | -2 | Assigned weight is 57.5 kg, which is 2.7 kg above the race average of 54.8 kg. This is a clear above-average weight burden. |
 
 ## Final Stage 1 Score
 
-**21 / 30**
+**19 / 32**
 
 Calculation:
 
-`9 + 6 + 3 + 3 + 0 = 21`
+`9 + 6 + 3 + 3 + 0 - 2 = 19`
+
+Original ability score before handicap adjustment: `21 / 30`
 
 ## Assessment
 
-West Now has direct winning evidence at 2000m and has also maintained strong performance at 2400m and 2600m. The longer-distance results support a broad distance range and provide additional evidence of stamina and race ability. Recent form has clearly improved, with a second-place finish followed by a Listed victory. The main unresolved points are the lack of confirmed Kokura Turf 2000m performance and inconsistent results at G3 level.
+West Now has direct winning evidence at 2000m and has also maintained strong performance at 2400m and 2600m. The longer-distance results support a broad distance range and provide additional evidence of stamina and race ability. Recent form has clearly improved, with a second-place finish followed by a Listed victory. The main unresolved points are the lack of confirmed Kokura Turf 2000m performance and inconsistent results at G3 level. The 57.5 kg assignment is materially heavier than the 54.8 kg race average and reduces the adjusted total by two points.
 
 ## Missing Information
 
@@ -68,6 +71,8 @@ West Now has direct winning evidence at 2000m and has also maintained strong per
 
 ## Notes
 
+- Existing ability-category scores were not re-evaluated.
+- Only the handicap weight adjustment was added.
 - Missing information was not converted to zero points.
 - No odds, value ranking, marks, or betting strategy were used.
 - Ability ranking will be finalized only after all entered horses have been evaluated.
