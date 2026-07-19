@@ -1,7 +1,7 @@
 # Stage 3 Evaluation — Raze Drama
 
 ## Evaluation Status
-Provisional — latest/final odds score pending.
+Completed using the 2026-07-19 14:10 odds snapshot.
 
 ## Horse Identification
 - Source material ID: 19
@@ -18,14 +18,20 @@ Provisional — latest/final odds score pending.
 - Weather Suitability: 5 / 5
 - Track Condition Suitability: 8 / 8
 - Race Pace Scenario: 5 / 9
-- Latest Odds: Pending / 4
+- Latest Odds: 2 / 4
 - Race-day Factors: -1 / 4
 
-## Provisional Score
-17 / 26 excluding odds.
+## Final Stage 3 Score
+19 / 30
+
+## Odds Evidence
+- Win odds: 15.9
+- Place odds: 4.3–5.8
+- Market rank: 6th favorite
+- The market retains meaningful support, but it is clearly weaker than the other qualified horses and does not offset the outermost-draw risk.
 
 ## Assessment
-Raze Drama has direct winning evidence over Kokura turf 2000m on firm going and can perform prominently when able to establish position. The projected middle pace is acceptable, but the official outermost horse number 18 creates a meaningful risk of covering extra ground or using early energy to obtain position. This draw disadvantage is recorded only as an official race-day factor.
+Raze Drama has direct winning evidence over Kokura turf 2000m on firm going and can perform prominently when able to establish position. The projected middle pace is acceptable, but official horse number 18 creates a meaningful risk of covering extra ground or using early energy to obtain position.
 
-## Pending Update
-Evaluate the latest/final market only when the user supplies or authorizes the final odds snapshot. Do not convert the odds score into betting value, marks, or strategy.
+## Notes
+The odds score is supplementary evidence only. Betting value and strategy are determined separately in the final prediction.
